@@ -24,3 +24,4 @@ The Concept of the project revolves around a particular work flow.
     pH
     Sulfates
     Alcohol
+<img src="<img src="https://labelyourdata.com/img/article-illustrations/ml_essential_tool.jpg">">
